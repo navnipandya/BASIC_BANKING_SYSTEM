@@ -1,6 +1,5 @@
 # Basic_Banking_System
-
-Hello everyone! Hope you all are doing well. I am Alisha Khan currently working as a Web Development and Designing Intern in GRIP at The Sparks Foundation. This is the #task1 given to me. Task 1 - Basic banking System Create a simple dynamic website which has the following specs.
+Hello everyone! Hope you all are doing well. I am Navni Pandya currently working as a Web Development and Designing Intern in GRIP at The Sparks Foundation. This is the #task1 given to me. Task 1 - Basic banking System Create a simple dynamic website which has the following specs.
 
 1.Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name,email, current balance etc. Transfers table will record all transfers happened.
 
